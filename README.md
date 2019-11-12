@@ -13,6 +13,7 @@ Beside these there is a augmentation.py file which is not a ros node for augment
 ## installation
 
 catkin_ws is assumed as your workspace
+
   cd ~/cakin_ws/src
   
   git clone https://github.com/muhammetbozkurt/ros_ai.git
