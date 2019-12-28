@@ -27,3 +27,9 @@ catkin_ws is assumed as your workspace
     catkin_make
  
  
+Dependancies:
+
+   - Opencv
+   - Keras 2.2.0   
+   - tensorflow 1.6.0
+   - Turtlebot
