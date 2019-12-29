@@ -9,7 +9,15 @@ This tos package contains two main node:
 -detector
    
    This node tries to detect pedestrians and other object from image using a keras based tiny yolo model
-   
+ 
+To run:
+
+ 
+      roslaunch ros_ai test_yolo.launch
+
+
+preview of results:
+
 https://www.youtube.com/watch?v=fOJYagaZdyY
   
 Beside these there is a augmentation.py file which is not a ros node for augment images to retrain model.
