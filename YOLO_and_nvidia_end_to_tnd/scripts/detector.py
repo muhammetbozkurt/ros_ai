@@ -196,7 +196,7 @@ def main():
         print("---------------------------")
         rospy.spin()
     except Exception as e:
-        print("Exception:\n", e)
+        print("Exception:\n", e,"\n")
     pd.yolo.close_session()
 
 
